@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|d:\\asp.net-nkl\\nkl.lab04_2\\nkl.lab04_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D60C347-4613-4D17-9411-6EA6DCD523EB}|Nkl.Lab04_2\\Nkl.Lab04_2.csproj|solutionrelative:nkl.lab04_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nkl.Lab04_2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:13:43.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Nkl.Lab04_2\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:09:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Nkl.Lab04_2\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T14:04:20.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Nkl.Lab04_2\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:55:55.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Models\\CustomerRepository.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\CustomerRepository.cs",
+              "RelativeToolTip": "Nkl.Lab04_2\\Models\\CustomerRepository.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:42:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Models\\ICustomerRepository.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\ICustomerRepository.cs",
+              "RelativeToolTip": "Nkl.Lab04_2\\Models\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:41:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Models\\Customer.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Models\\Customer.cs",
+              "RelativeToolTip": "Nkl.Lab04_2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:45:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lab04_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lab04_2\\Nkl.Lab04_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nkl.Lab04_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T12:44:39.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Danh sách khách hàng";
+    // Lấy danh sách khách hàng và chuyển đổi dữ liệu từ ViewBag
+    var listcustomer = ViewBag.listcustomer as List<Nkl.Lab04.Models.Customer>;
+}
+
+<h2>Danh sách khách hàng</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã KH</th>
+            <th>Họ và tên</th>
+            <th>Địa chỉ</th>
+            <th>Email</th>
+            <th>Điện thoại</th>
+            <th>Số dư</th>
+        </tr>
+    </thead>
+    <tbody>
+        @* Hiển thị danh sách khách hàng *@
+        @foreach (var customer in listcustomer)
+        {
+            <tr>
+                <td>@customer.CustomerId</td>
+                <td>@customer.FullName</td>
+                <td>@customer.Address</td>
+                <td>@customer.Email</td>
+                <td>@customer.Phone</td>
+                <td>@customer.Balance</td>
+            </tr>
+        }
+    </tbody>
+</table>

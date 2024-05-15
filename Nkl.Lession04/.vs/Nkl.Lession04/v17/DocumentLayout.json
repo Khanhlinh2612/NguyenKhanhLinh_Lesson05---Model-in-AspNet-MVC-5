@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET-NKL\\Nkl.Lession04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\controllers\\nklcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\controllers\\nklcustomerscaffdingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\views\\nklcustomerscaffding\\nkledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\views\\nklcustomerscaffding\\nkledit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\views\\nklcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\views\\nklcustomerscaffding\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\views\\nklcustomerscaffding\\nklcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\views\\nklcustomerscaffding\\nklcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\controllers\\nklcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\controllers\\nklcustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\models\\nklcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\models\\nklcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|d:\\asp.net-nkl\\nkl.lession04\\nkl.lession04\\views\\nklcustomer\\nkllistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BF6510-4B09-462B-9362-40408963D43C}|Nkl.Lession04\\Nkl.Lession04.csproj|solutionrelative:nkl.lession04\\views\\nklcustomer\\nkllistcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NklEdit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\NklEdit.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Views\\NklCustomerScaffding\\NklEdit.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\NklEdit.cshtml",
+              "RelativeToolTip": "Nkl.Lession04\\Views\\NklCustomerScaffding\\NklEdit.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:12:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NklCreate.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\NklCreate.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Views\\NklCustomerScaffding\\NklCreate.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\NklCreate.cshtml",
+              "RelativeToolTip": "Nkl.Lession04\\Views\\NklCustomerScaffding\\NklCreate.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:06:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Views\\NklCustomerScaffding\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomerScaffding\\Index.cshtml",
+              "RelativeToolTip": "Nkl.Lession04\\Views\\NklCustomerScaffding\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:01:03.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NklCustomerScaffdingController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Controllers\\NklCustomerScaffdingController.cs",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Controllers\\NklCustomerScaffdingController.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Controllers\\NklCustomerScaffdingController.cs",
+              "RelativeToolTip": "Nkl.Lession04\\Controllers\\NklCustomerScaffdingController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwD0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:56:38.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NklCustomerController.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Controllers\\NklCustomerController.cs",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Controllers\\NklCustomerController.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Controllers\\NklCustomerController.cs",
+              "RelativeToolTip": "Nkl.Lession04\\Controllers\\NklCustomerController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwEYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:24:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NklCustomer.cs",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Models\\NklCustomer.cs",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Models\\NklCustomer.cs",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Models\\NklCustomer.cs",
+              "RelativeToolTip": "Nkl.Lession04\\Models\\NklCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T10:22:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nkl.Lession04\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:35:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NklListCustomer.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomer\\NklListCustomer.cshtml",
+              "RelativeDocumentMoniker": "Nkl.Lession04\\Views\\NklCustomer\\NklListCustomer.cshtml",
+              "ToolTip": "D:\\ASP.NET-NKL\\Nkl.Lession04\\Nkl.Lession04\\Views\\NklCustomer\\NklListCustomer.cshtml",
+              "RelativeToolTip": "Nkl.Lession04\\Views\\NklCustomer\\NklListCustomer.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T10:43:44.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
